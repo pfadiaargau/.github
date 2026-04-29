@@ -1,1 +1,1 @@
-# .github
+All projects from the PfadiAargau
